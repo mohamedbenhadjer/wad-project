@@ -75,8 +75,8 @@ src/
 
 1. Clone the repository:
 ```sh
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/mohamedbenhadjer/wad-project.git
+cd wad-project
 ```
 
 2. Install dependencies:
